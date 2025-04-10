@@ -1,0 +1,5 @@
+Sign_Button = Sign In
+email_field= login_id
+Next_button = //button[@id='nextbtn']
+pass_field = //input[@id='password']
+Login_Next_Button = //button[@id='nextbtn']//span[contains(text(),'Sign in')]
