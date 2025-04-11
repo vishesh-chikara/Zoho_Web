@@ -25,7 +25,7 @@ public class FirstTest extends Zoho_Base_class  {
 		//Thread.sleep(6000);
 		driver.findElement(By.xpath(Loc.getProperty("Login_Next_Button"))).click();
 		//Thread.sleep(3000);
-		driver.close();
+
 
 	}
 
